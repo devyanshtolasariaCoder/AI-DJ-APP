@@ -27,3 +27,14 @@ body{
 .div_volume{
     float: right;
 }
+.play_button{
+    width: 95px;
+    height: 45px;
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 15px;
+}
